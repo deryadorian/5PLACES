@@ -1,0 +1,203 @@
+﻿jsonCallback([
+
+{
+    "Name":"yyyLades Menemen",
+    "Type":"Local restaurant",
+    "Best for":"Breakfast and lunch",
+    "Ambient":"None but might be appealing for some",
+    "Price":"Very reasonable",
+    "Location":"Easy to find",
+    "Famous Dish":"\"Menemen\" and other egg dishes",
+    "Latitude":"2.284602",
+    "Longitude":"103.847083",
+    "Images":["img/lades.jpg", "img/lades/2.jpg", "img/lades/3.jpg", "img/lades/4.jpg", "img/lades/5.jpg"],
+    "Explanation":
+    "\"Menemen\" (a traditional scrambled egg dish) is a must and LADES is the best place to eat it. It's egg, tomatoes and green pepper (sometimes onions as well). Egg with cheese or egg with sausage (actually \"sucuk\" which is a traditional dried sausage product and it's great for egg dishes) are other great choices. Or you can have just egg, still very good.  We like to have \"bal & kaymak\" ( honey and dairy cream ) as a side dish to make this breakfast complete. You can have tea and fizzy drinks but no coffee. Waiters do not speak english but they are very friendly and here            are some language tips:  Scrambled : \"karismis\"  Half cooked : \"az pismis\""
+},
+
+{
+    "Name":"Bursa Kebapçısı",
+    "Type":"Local restaurant",
+    "Best for":"Lunch",
+    "Ambient":"Cousy and retro",
+    "Price":"Reasonable",
+    "Location":"Easy to find",
+    "Famous Dish":"İskender Kebap",
+    "Latitude":"1.336022",
+    "Longitude":"103.861712",
+    "Images":["img/bursa.jpg", "img/bursa/2.jpg", "img/bursa/3.jpg", "img/bursa/4.jpg"],
+    "Explanation":
+    "It is traditional and very famous kebab dish prepared from doner with hot tomato sauce over pieces of pita bread, slathered with butter and yogurt. Iskender Kebap can be found almost in any kebap restaurant but we believe this one is the closest to the original which you can only eat in city of Bursa (where this kebap has invented in late 19 century). You can order a 1,5 portion.  As dessert, you should try Kemalpaşa (fried dough served with cream) which is an another classic from Bursa. Fizzy drinks, ayran (yoghurty refreshing drink) and şıra (sour grape juice) are available.  Waiters do not speak english (because it’s not very likely to see any tourist inside) but you will be most welcomed. They kept the original decor from late 70’s and we like it this way."
+},
+
+{
+    "Name":"Çakmak Cafe",
+    "Type":"Local restaurant",
+    "Best for":"Lunch",
+    "Ambient":"Cousy and retro",
+    "Price":"Reasonable",
+    "Location":"Easy to find",
+    "Famous Dish":"İskender Kebap",
+    "Latitude":"1.323111",
+    "Longitude":"103.825348",
+    "Images":["img/cakmak.jpg", "img/cakmak/2.jpg", "img/cakmak/3.jpg", "img/cakmak/4.jpg"],
+    "Explanation":
+    "CAKMAKCAFECAKMAKCAFECAKMAKCAFECAKMAKCAFECAKMAKCAFECAKMAKCAFECAKMAKCAFECAKMAKCAFECAKMAKCAFECAKMAKCAFECAKMAKCAFECAKMAKCAFECAKMAKCAFE"
+},
+{
+    "Name":"Sehzade Cag Kebap",
+    "Type":"Local restaurant",
+    "Best for":"Lunch",
+    "Ambient":"Cousy and retro",
+    "Price":"Reasonable",
+    "Location":"Easy to find",
+    "Famous Dish":"İskender Kebap",
+    "Latitude":"1.280251",
+    "Longitude":"103.856664",
+    "Images":["img/sehzade.jpg", "img/sehzade/2.jpg", "img/sehzade/3.jpg", "img/sehzade/4.jpg"],
+    "Explanation":
+    "SEHZADESEHZADESEHZADESEHZADESEHZADESEHZADESEHZADESEHZADESEHZADESEHZADESEHZADESEHZADESEHZADESEHZADESEHZADESEHZADESEHZADESEHZADESEHZADESEHZADESEHZADESEHZADESEHZADESEHZADESEHZADE"
+},
+{
+    "Name":"RESTAURANT_TEST01",
+    "Type":"Local restaurant",
+    "Best for":"Lunch",
+    "Ambient":"Cousy and retro",
+    "Price":"Reasonable",
+    "Location":"Easy to find",
+    "Famous Dish":"İskender Kebap",
+    "Latitude":"1.293765",
+    "Longitude":"103.872371",
+    "Images":["http://s3-us-west-2.amazonaws.com/5places2eat/images/sehzade_01.jpg"],
+    "Explanation":
+    "TESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTEST"
+},
+    {
+    "Name":"RESTAURANT_TEST02",
+    "Type":"Local restaurant",
+    "Best for":"Lunch",
+    "Ambient":"Cousy and retro",
+    "Price":"Reasonable",
+    "Location":"Easy to find",
+    "Famous Dish":"İskender Kebap",
+    "Latitude":"1.301402",
+    "Longitude":"103.860226",
+    "Images":["http://s3-us-west-2.amazonaws.com/5places2eat/images/sehzade_01.jpg"],
+    "Explanation":
+    "TESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTEST"
+},
+    {
+    "Name":"RESTAURANT_TEST03",
+    "Type":"Local restaurant",
+    "Best for":"Lunch",
+    "Ambient":"Cousy and retro",
+    "Price":"Reasonable",
+    "Location":"Easy to find",
+    "Famous Dish":"İskender Kebap",
+    "Latitude":"1.303033",
+    "Longitude":"103.847437",
+    "Images":["http://s3-us-west-2.amazonaws.com/5places2eat/images/sehzade_01.jpg"],
+    "Explanation":
+    "TESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTEST"
+},
+    {
+    "Name":"RESTAURANT_TEST04",
+    "Type":"Local restaurant",
+    "Best for":"Lunch",
+    "Ambient":"Cousy and retro",
+    "Price":"Reasonable",
+    "Location":"Easy to find",
+    "Famous Dish":"İskender Kebap",
+    "Latitude":"1.266650",
+    "Longitude":"103.822546",
+    "Images":["http://s3-us-west-2.amazonaws.com/5places2eat/images/sehzade_01.jpg"],
+    "Explanation":
+    "TESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTEST"
+},
+    {
+    "Name":"RESTAURANT_TEST05",
+    "Type":"Local restaurant",
+    "Best for":"Lunch",
+    "Ambient":"Cousy and retro",
+    "Price":"Reasonable",
+    "Location":"Easy to find",
+    "Famous Dish":"İskender Kebap",
+    "Latitude":"1.303119",
+    "Longitude":"103.780318",
+    "Images":["http://s3-us-west-2.amazonaws.com/5places2eat/images/sehzade_01.jpg"],
+    "Explanation":
+    "TESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTEST"
+},
+{
+    "Name":"RESTAURANT_TEST06",
+    "Type":"Local restaurant",
+    "Best for":"Lunch",
+    "Ambient":"Cousy and retro",
+    "Price":"Reasonable",
+    "Location":"Easy to find",
+    "Famous Dish":"İskender Kebap",
+    "Latitude":"1.332894",
+    "Longitude":"103.871470",
+    "Images":["http://s3-us-west-2.amazonaws.com/5places2eat/images/sehzade_01.jpg"],
+    "Explanation":
+    "TESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTEST"
+},
+{
+    "Name":"RESTAURANT_TEST07",
+    "Type":"Local restaurant",
+    "Best for":"Lunch",
+    "Ambient":"Cousy and retro",
+    "Price":"Reasonable",
+    "Location":"Easy to find",
+    "Famous Dish":"İskender Kebap",
+    "Latitude":"1.341389",
+    "Longitude":"103.773537",
+    "Images":["http://s3-us-west-2.amazonaws.com/5places2eat/images/sehzade_01.jpg"],
+    "Explanation":
+    "TESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTEST"
+},
+{
+    "Name":"RESTAURANT_TEST08",
+    "Type":"Local restaurant",
+    "Best for":"Lunch",
+    "Ambient":"Cousy and retro",
+    "Price":"Reasonable",
+    "Location":"Easy to find",
+    "Famous Dish":"İskender Kebap",
+    "Latitude":"1.380517",
+    "Longitude":"103.894387",
+    "Images":["http://s3-us-west-2.amazonaws.com/5places2eat/images/sehzade_01.jpg"],
+    "Explanation":
+    "TESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTEST"
+},
+{
+    "Name":"RESTAURANT_TEST09",
+    "Type":"Local restaurant",
+    "Best for":"Lunch",
+    "Ambient":"Cousy and retro",
+    "Price":"Reasonable",
+    "Location":"Easy to find",
+    "Famous Dish":"İskender Kebap",
+    "Latitude":"1.335211",
+    "Longitude":"103.964768",
+    "Images":["http://s3-us-west-2.amazonaws.com/5places2eat/images/sehzade_01.jpg"],
+    "Explanation":
+    "TESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTEST"
+},
+{
+    "Name":"RESTAURANT_TEST10",
+    "Type":"Local restaurant",
+    "Best for":"Lunch",
+    "Ambient":"Cousy and retro",
+    "Price":"Reasonable",
+    "Location":"Easy to find",
+    "Famous Dish":"İskender Kebap",
+    "Latitude":"1.380860",
+    "Longitude":"103.836022",
+    "Images":["http://s3-us-west-2.amazonaws.com/5places2eat/images/sehzade_01.jpg"],
+    "Explanation":
+    "TESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTEST"
+}
+
+
+])

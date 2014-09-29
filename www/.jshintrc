@@ -1,0 +1,15 @@
+{
+  "globalstrict": true,
+
+  "globals"   : {
+    "angular"           : false,
+    "window"            : false,
+    "document"          : false,
+    "navigator"         : false,
+    "cordova"           : false,
+    "StatusBar"         : false,
+    "google"            : false,
+    "localStorage"      : false,
+    "console"           : false
+  }
+}

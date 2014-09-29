@@ -1,0 +1,308 @@
+
+body {
+    background-image:url("../img/5places_ist_grad_bg.jpg");
+    background-size:100%;
+    color:white;
+}
+a {
+    text-decoration:none;
+}
+
+a:visited, a:link {
+    color:white;
+}
+
+/*****************/
+/*** tab icons ***/
+.scroll-content {
+    height:84%;
+}
+.footer-icons {
+    position:absolute;
+    bottom:0;
+    left:  0;
+    width:100%;
+    margin-bottom:5%;
+}
+.tab-icon {
+    display:inline-block;
+    width:16%;
+}
+.tab-icon-main {
+    position:absolute;
+    left:16%;
+    bottom:0;
+}
+.tab-icon-fav {
+    position:absolute;
+    left:42.5%;
+    bottom:0;
+}
+.tab-icon-info {
+    position:absolute;
+    right:16%;
+    bottom:0;
+}
+
+
+
+/***************/
+/*** info tab ***/
+ion-content.info {
+    padding:2em 3em;
+}
+.scroll-content.info {
+    height:80%;
+}
+.info-heading {
+    color:white;
+}
+
+/***************/
+/*** fav tab ***/
+.fav-restaurant-name {
+    color:white;
+    font-size:1.1em;
+}
+.fav-restaurant-type {
+    color:#0d372f;
+    font-size:0.9em;
+}
+.list ion-item {
+    background-color:inherit;
+}
+
+
+
+/****************/
+/*** main tab ***/
+
+/* main tab radar circles */
+.circle-box:before {
+    content: "";
+    display: block;
+    padding-top:100%;
+}
+.circle-container {
+    position:absolute;
+    top:   0;
+    left:  0;
+    bottom:0;
+    right: 0;
+}
+.circle {
+    height:100%;
+    width: 100%;
+    border-radius:50%;
+    background-color:inherit;
+    border: 1px solid green;
+}
+.circle6 {
+    background-color:#51a693;
+    padding:7.5%;
+    opacity:0.3;
+}
+.circle5 {
+    background-color:#5ca89b;
+    padding:8.8%;
+}
+.circle4 {
+    background-color:#66aca1;
+    padding:11%;
+}
+.circle3 {
+    background-color:#72b1a8;
+    padding:13.8%;
+}
+.circle2 {
+    background-color:#7bb4ad;
+    padding:17.2%;
+}
+.circle1 {
+    background-color:#83b6b1;
+    padding:21.5%;
+}
+.circle0 {
+    background-color:dimgrey;
+}
+@media (max-width:640px) {
+.circle0 div {
+    padding-top:25%;
+    font-size:0.8em;
+}}
+@media (min-width:641px) {
+.circle0 div {
+    padding-top:40%;
+    font-size:2em;
+}}
+
+
+/* main tab restaurant info */
+.main.list {
+    margin-bottom:0;
+}
+.main-restaurant-info {
+    padding:0.5;
+    padding-left:2.5em;
+    background-color:#3e917d;
+    border:none;
+}
+.main-restaurant-name {
+    color:white;
+    font-size:1.5em;
+    line-height:1.25em;
+}
+.main-restaurant-type {
+    color:#0d372f;
+}
+.main-restaurant-distance {
+    color:white;
+}
+
+
+/* main tab location dot */
+
+.radar {
+    position:relative;
+    margin-top:0.5em;
+    width: 100%;
+    height:100%;
+}
+.circle-box {
+    position:absolute;
+    top:  0;
+    left: 0;
+    width:90%;
+    margin-left:5%;
+}
+.location-dots-box {
+    position:absolute;
+    top:   0;
+    left:  0;
+    height:100%;
+    width: 100%;
+    margin-top :42%;
+    margin-left:44.5%;
+}
+
+
+
+.location-circle-box {
+    width:2.5em;
+    position:absolute;
+    z-index:1;
+}
+.location-circle-box.active {
+    width:2.5em;
+    position:absolute;
+    z-index:2;
+}
+@media (max-width:640px) {
+.location-circle-box {
+    top: calc(50% - 0.5em);
+}}
+@media (min-width:641px) {
+.location-circle-box {
+    top: calc(50% + 2.5em);
+}}
+
+.location-circle-box:before {
+    content: "";
+    display:block;
+    padding-top:100%;
+}
+.location-circle-container {
+    position:absolute;
+    top:   0;
+    left:  0;
+    bottom:0;
+    right: 0;
+}
+.location-circle {
+    height:100%;
+    width: 100%;
+    border-radius:50%;
+    background-color:inherit;
+}
+.location-circle2 {
+    background-color:#2e7867;
+    padding:12.5%;
+}
+.location-circle1 {
+    background-color:#64ae9f;
+    padding:30%;
+}
+.location-circle0 {
+    background-color:white;
+}
+.location-circle-box.active .location-circle2 {
+    background-color:white;
+}
+
+
+
+/****************/
+/*** Details page ***/
+
+.details-icons-container {
+/*     margin-top:50%; */
+}
+.details-restaurant-info {
+    padding:1.25em;
+/*     padding-top:10em; */
+}
+.details-restaurant-name {
+    font-size:2em;
+    font-weight:bold;
+    padding-bottom:0.5em;
+}
+.details-restaurant-type {
+    color:#0d372f;
+    font-size:1.5em;
+    font-weight:bold;
+}
+.details-restaurant-additional-info {
+    padding:0 1.25em;
+}
+.details .dt {
+    color:#0d372f;
+}
+.details-icons {
+    display:inline-block;
+/*     float:right; */
+    background-color:#235959;
+    padding:1.5em;
+    margin-top:-5px;
+}
+.details-icon {
+    font-size:2em;
+    margin:0.5em;
+}
+.details.row {
+    padding:0;
+}
+.details .photo {
+    width:100%;
+    height:auto;
+    max-height:40%;
+}
+
+#map-canvas {
+    height: 100%;
+}
+
+ion-content.map div.scroll {
+    height: 100%;
+}
+ion-item * {
+    background-color:transparent !important;
+}
+.item-options {
+    padding-top:0.75em;
+}
+.item-options * {
+    color:white;
+}
+.fav-add {
+    color: red;
+}
